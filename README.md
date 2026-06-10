@@ -1,9 +1,9 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,1e293b&height=180&section=header&text=Chinta%20Yaswanth%20Varma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&repeat=true&width=700&lines=Software+Developer;Full-Stack+%7C+React+%2B+Node.js+%2B+MongoDB;REST+APIs+%7C+Auth+%7C+Real-Time+Apps;AI+%26+ML+Engineer;GANs+%7C+Deep+Learning+%7C+Computer+Vision;Data+Science+%7C+Scikit-Learn+%7C+Pandas;300%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=818CF8&center=true&vCenter=true&repeat=true&width=750&lines=Building+scalable+web+applications+and+solving+real-world+problems+through+software" alt="Typing SVG" />
 </a>
-Building scalable web applications and solving real-world problems through software.
+</div>
 </div>
 
 ---
