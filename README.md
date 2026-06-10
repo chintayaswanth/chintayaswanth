@@ -1,13 +1,9 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=color=A78BFA,50:1e293b,100:334155&height=180&section=header&text=Chinta%20Yaswanth%20Varma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,1e293b&height=180&section=header&text=Chinta%20Yaswanth%20Varma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&lines=Software+Developer;Full-Stack+Developer;Building+Scalable+Web+Applications;Machine+Learning+%26+Deep+Learning;AI-Powered+Solutions;300%2B+LeetCode+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&repeat=true&width=700&lines=Software+Developer;Full-Stack+%7C+React+%2B+Node.js+%2B+MongoDB;REST+APIs+%7C+Auth+%7C+Real-Time+Apps;AI+%26+ML+Engineer;GANs+%7C+Deep+Learning+%7C+Computer+Vision;Data+Science+%7C+Scikit-Learn+%7C+Pandas;300%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 </a>
-
 Building scalable web applications and solving real-world problems through software.
-
 </div>
 
 ---
@@ -26,19 +22,16 @@ Software Developer with a background in **Artificial Intelligence & Data Science
 <br clear="right"/>
 
 ---
-
 ## Tech Stack
 
 <div align="center">
 
 ### Backend & Core
-
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,19 +40,16 @@ Software Developer with a background in **Artificial Intelligence & Data Science
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Databases
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Data Science & Machine Learning
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Tools & Technologies
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -75,5 +65,4 @@ Software Developer with a background in **Artificial Intelligence & Data Science
 *"Always learning. Always building."*
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=color=A78BFA,50:1e293b,100:0f172a&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,1e293b&height=100&section=footer"/>
