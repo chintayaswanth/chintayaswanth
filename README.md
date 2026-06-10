@@ -1,8 +1,6 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,1e293b&height=180&section=header&text=Chinta%20Yaswanth%20Varma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=818CF8&center=true&vCenter=true&repeat=true&width=750&lines=Building+scalable+web+applications+and+solving+real-world+problems+through+software" alt="Typing SVG" />
-</a>
+Building scalable web applications and solving real-world problems through software.
 </div>
 </div>
 
@@ -13,6 +11,7 @@
 
 Software Developer with a background in **Artificial Intelligence & Data Science**.
 
+- Graduated with a B.E. in Artificial Intelligence & Data Science from **Chaitanya Bharathi Institute of Technology (CBIT)**
 - Building **Full-Stack Applications** using React, Node.js, Express, and MongoDB
 - Developing **Machine Learning & Deep Learning** solutions
 - Solved **300+ LeetCode** problems
