@@ -9,16 +9,19 @@ Building scalable web applications and solving real-world problems through softw
 </div>
 
 ---
-
 ## About Me
 
-Software Developer with a background in Artificial Intelligence & Data Science.
+<img align="right" width="350" src="(https://camo.githubusercontent.com/8539d653713b04a0754ce677b9f4a5e52e6ee5fbf2eec9aaad9f711836f402ab/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c615670304179715235624773433543626d2f67697068792e676966">
 
-- Building full-stack applications using React, Node.js, Express, and MongoDB
-- Developing Machine Learning and Deep Learning solutions
-- Interested in backend systems, scalable applications, and software engineering
-- Solved 300+ problems on LeetCode
-- Open to Software Developer and Full-Stack Developer opportunities
+Software Developer with a background in **Artificial Intelligence & Data Science**.
+
+- Building **Full-Stack Applications** using React, Node.js, Express, and MongoDB
+- Developing **Machine Learning & Deep Learning** solutions
+- Solved **300+ LeetCode** problems
+- Interested in **Backend Systems**, **Scalable Applications**, and **Software Engineering**
+- Open to **Software Developer** and **Full-Stack Developer** opportunities
+
+<br clear="right"/>
 
 ---
 
