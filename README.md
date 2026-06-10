@@ -11,7 +11,7 @@ Building scalable web applications and solving real-world problems through softw
 ---
 ## About Me
 
-<img align="right" width="350" src="(https://camo.githubusercontent.com/8539d653713b04a0754ce677b9f4a5e52e6ee5fbf2eec9aaad9f711836f402ab/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c615670304179715235624773433543626d2f67697068792e676966">
+<img align="right" width="350" alt="Coding GIF" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
 
 Software Developer with a background in **Artificial Intelligence & Data Science**.
 
