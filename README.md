@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=180&section=header&text=Chinta%20Yaswanth%20Varma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
 
-### Software Developer | React • Node.js • JavaScript
+### Software Developer 
 
 Building scalable web applications and solving real-world problems through software.
 
@@ -12,13 +12,13 @@ Building scalable web applications and solving real-world problems through softw
 
 ## About Me
 
-I'm a Software Developer and Artificial Intelligence & Data Science student at CBIT.
+Software Developer with a background in Artificial Intelligence & Data Science.
 
-* Building full-stack applications using React, Node.js, Express, and MongoDB
-* Interested in backend systems, web applications, and software engineering
-* Solved 300+ problems on LeetCode
-* Oracle Cloud Infrastructure AI Foundations Associate
-* Currently learning Docker, Kubernetes, and System Design
+- Building full-stack applications using React, Node.js, Express, and MongoDB
+- Developing Machine Learning and Deep Learning solutions
+- Interested in backend systems, scalable applications, and software engineering
+- Solved 300+ problems on LeetCode
+- Open to Software Developer and Full-Stack Developer opportunities
 
 ---
 
