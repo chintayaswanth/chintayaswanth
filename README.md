@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=180&section=header&text=Chinta%20Yaswanth%20Varma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=color=A78BFA,50:1e293b,100:334155&height=180&section=header&text=Chinta%20Yaswanth%20Varma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&lines=Software+Developer;Full-Stack+Developer;Building+Scalable+Web+Applications;Machine+Learning+%26+Deep+Learning;AI-Powered+Solutions;300%2B+LeetCode+Problems" alt="Typing SVG" />
@@ -76,4 +76,4 @@ Software Developer with a background in **Artificial Intelligence & Data Science
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=color=A78BFA,50:1e293b,100:0f172a&height=100&section=footer"/>
