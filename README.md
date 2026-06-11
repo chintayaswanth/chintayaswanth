@@ -5,14 +5,12 @@ Building scalable web applications and solving real-world problems through softw
 </div>
 
 ---
+
 ## About Me
 
-<img
-  align="right"
-  width="35%"
-  alt="Coding GIF"
-  src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"
-/>
+<div align="center">
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="280" alt="Coding GIF"/>
+</div>
 
 Software Developer with a background in **Artificial Intelligence & Data Science**.
 
@@ -22,9 +20,7 @@ Software Developer with a background in **Artificial Intelligence & Data Science
 - Solved **300+ LeetCode** problems
 - Interested in **Backend Systems**, **Scalable Applications**, and **Software Engineering**
 - Open to **Software Developer** and **Full-Stack Developer** opportunities
-
-<br clear="right"/>
-
+  
 ---
 ## Tech Stack
 
