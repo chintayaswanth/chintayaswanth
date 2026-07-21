@@ -8,9 +8,12 @@ Building scalable web applications and solving real-world problems through softw
 
 ## About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="280" alt="Coding GIF"/>
-</div>
+<img
+  align="right"
+  width="35%"
+  alt="Coding GIF"
+  src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"
+/>
 
 Software Developer with a background in **Artificial Intelligence & Data Science**.
 
